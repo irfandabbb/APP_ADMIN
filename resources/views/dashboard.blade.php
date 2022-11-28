@@ -1,5 +1,5 @@
 @extends('layout.admin')
-@section('title','- Dashboard')
+@section('title','Dashboard')
 @section('topbar-title','Selamat Datang!')
 @section('content')
 
